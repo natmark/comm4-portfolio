@@ -1,16 +1,16 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1483682910854">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1483695981324">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_main.css" crc="4293185609" ref="index:resume:selected-works:about-me"/>
-    <file name="nomq_preview_master_main.css" crc="3771503593" ref="index:resume:selected-works:about-me"/>
-    <file name="index.css" crc="4091808933" ref="index"/>
-    <file name="nomq_index.css" crc="3991158871" ref="index"/>
-    <file name="resume.css" crc="3972047309" ref="resume"/>
-    <file name="nomq_resume.css" crc="213620052" ref="resume"/>
-    <file name="selected-works.css" crc="3972047309" ref="selected-works"/>
-    <file name="nomq_selected-works.css" crc="213620052" ref="selected-works"/>
-    <file name="about-me.css" crc="3972047309" ref="about-me"/>
-    <file name="nomq_about-me.css" crc="213620052" ref="about-me"/>
+    <file name="master_main.css" crc="148839047" ref="index:resume:selected-works:about-me"/>
+    <file name="nomq_preview_master_main.css" crc="4219171331" ref="index:resume:selected-works:about-me"/>
+    <file name="index.css" crc="4033244601" ref="index"/>
+    <file name="nomq_index.css" crc="4289993928" ref="index"/>
+    <file name="resume.css" crc="516162837" ref="resume"/>
+    <file name="nomq_resume.css" crc="3827778957" ref="resume"/>
+    <file name="selected-works.css" crc="516162837" ref="selected-works"/>
+    <file name="nomq_selected-works.css" crc="3827778957" ref="selected-works"/>
+    <file name="about-me.css" crc="516162837" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="3827778957" ref="about-me"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:selected-works:resume:about-me"/>
@@ -28,9 +28,13 @@
     <file name="blank.gif" crc="4208392903" ref="index:selected-works:resume:about-me"/>
     <file name="img_5254.jpg" crc="4053658673" seo="true" ref="index"/>
     <file name="img_5254500x226.jpg" crc="4016977202" seo="true" ref="index"/>
+    <file name="img_2966.jpg" crc="3772630652" seo="true" ref="index"/>
+    <file name="thumbnail.jpg" crc="3814600733" seo="true" ref="index"/>
+    <file name="img_5254800x360.jpg" crc="4241993952" seo="true" ref="index"/>
+    <file name="img_2966335x180.jpg" crc="507335545" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3900842033" seo="true" mt="1483682873983" redirect="true"/>
-  <file name="selected-works.html" crc="3774126256" seo="true" mt="1483682506083" redirect="true"/>
-  <file name="resume.html" crc="83242785" seo="true" mt="1483682506083" redirect="true"/>
-  <file name="about-me.html" crc="4241736002" seo="true" mt="1483682506083" redirect="true"/>
+  <file name="index.html" crc="510876343" seo="true" mt="1483695868744" redirect="true"/>
+  <file name="selected-works.html" crc="3896231109" seo="true" mt="1483695159651" redirect="true"/>
+  <file name="resume.html" crc="464286736" seo="true" mt="1483695159651" redirect="true"/>
+  <file name="about-me.html" crc="4099649432" seo="true" mt="1483695159651" redirect="true"/>
 </manifest>
