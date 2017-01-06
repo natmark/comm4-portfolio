@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://natmark.github.io/comm4-portfolio/index.html</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://natmark.github.io/comm4-portfolio/resume.html</loc>
-    <lastmod>2017-01-06</lastmod>
+    <lastmod>2017-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://natmark.github.io/comm4-portfolio/about-me.html</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/resume.html</loc>
     <lastmod>2017-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -25,44 +25,194 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://natmark.github.io/comm4-portfolio/images/img_5254500x226.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://natmark.github.io/comm4-portfolio/images/img_2966.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://natmark.github.io/comm4-portfolio/images/img_2966335x180.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://natmark.github.io/comm4-portfolio/images/img_5254.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://natmark.github.io/comm4-portfolio/images/thumbnail.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://natmark.github.io/comm4-portfolio/images/%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E7%84%A1%E6%96%99%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B35.png</loc>
-    <lastmod>2017-01-06</lastmod>
+    <lastmod>2017-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://natmark.github.io/comm4-portfolio/images/img_5254800x360.jpg</loc>
-    <lastmod>2017-01-06</lastmod>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/img_2966335x180.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/img_4812.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/img_6152.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/%E3%82%B9%E3%83%BC%E3%83%84%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%AE%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/%E7%9B%AE%E7%9A%84%E5%9C%B0%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B34.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/github-mark.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/facebook-icon.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/%E5%AE%B6%E3%81%AE%E7%84%A1%E6%96%99%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/wantedly-icon.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/hatenablog_icon_round.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/insta22x22.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/img_5254500x226.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/img_2966.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/unity.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/nodejs-512.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/machinelearning.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/git-icon-black.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/insta.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/img_4812500x211.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/unity14x14.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/2k3k6jayfthxrdcwzfrhpjpnwh55gd_4854_compprod_1024x102414x14.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/git-icon-black14x14.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/wantedly-icon21x21.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/hatenablog_icon_round21x21.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/facebook-icon21x21.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/insta21x21.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/img_5254.jpg</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%AE%E7%84%A1%E6%96%99%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B35.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/swift_logosvg.png</loc>
+    <lastmod>2017-01-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://natmark.github.io/comm4-portfolio/images/2k3k6jayfthxrdcwzfrhpjpnwh55gd_4854_compprod_1024x1024.png</loc>
+    <lastmod>2017-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
