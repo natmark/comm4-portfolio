@@ -1,36 +1,36 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1483680500593">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1483682910854">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_main.css" crc="3895796036" ref="index:resume:aboutme:selected-works"/>
-    <file name="nomq_preview_master_main.css" crc="4224631763" ref="index:resume:aboutme:selected-works"/>
-    <file name="index.css" crc="4159934659" ref="index"/>
-    <file name="nomq_index.css" crc="4189194488" ref="index"/>
-    <file name="resume.css" crc="87837077" ref="resume"/>
-    <file name="nomq_resume.css" crc="135093271" ref="resume"/>
-    <file name="aboutme.css" crc="87837077" ref="aboutme"/>
-    <file name="nomq_aboutme.css" crc="135093271" ref="aboutme"/>
-    <file name="selected-works.css" crc="87837077" ref="selected-works"/>
-    <file name="nomq_selected-works.css" crc="135093271" ref="selected-works"/>
+    <file name="master_main.css" crc="4293185609" ref="index:resume:selected-works:about-me"/>
+    <file name="nomq_preview_master_main.css" crc="3771503593" ref="index:resume:selected-works:about-me"/>
+    <file name="index.css" crc="4091808933" ref="index"/>
+    <file name="nomq_index.css" crc="3991158871" ref="index"/>
+    <file name="resume.css" crc="3972047309" ref="resume"/>
+    <file name="nomq_resume.css" crc="213620052" ref="resume"/>
+    <file name="selected-works.css" crc="3972047309" ref="selected-works"/>
+    <file name="nomq_selected-works.css" crc="213620052" ref="selected-works"/>
+    <file name="about-me.css" crc="3972047309" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="213620052" ref="about-me"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:aboutme:selected-works:resume"/>
-    <file name="museutils.js" crc="4148063285" ref="index:aboutme:selected-works:resume"/>
-    <file name="whatinput.js" crc="86476730" ref="index:aboutme:selected-works:resume"/>
-    <file name="museconfig.js" crc="4179431180" ref="index:aboutme:selected-works:resume"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index:aboutme:selected-works:resume"/>
-    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:aboutme:selected-works:resume"/>
-    <file name="require.js" crc="4159430777" ref="index:aboutme:selected-works:resume"/>
-    <file name="webpro.js" crc="3986320349" ref="index:aboutme:selected-works:resume"/>
-    <file name="musewpdisclosure.js" crc="3865010892" ref="index:aboutme:selected-works:resume"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:selected-works:resume:about-me"/>
+    <file name="museutils.js" crc="4148063285" ref="index:selected-works:resume:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="index:selected-works:resume:about-me"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:selected-works:resume:about-me"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:selected-works:resume:about-me"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:selected-works:resume:about-me"/>
+    <file name="require.js" crc="4159430777" ref="index:selected-works:resume:about-me"/>
+    <file name="webpro.js" crc="3986320349" ref="index:selected-works:resume:about-me"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:selected-works:resume:about-me"/>
   </folder>
   <folder name="images">
-    <file name="メニューの無料アイコン5.png" crc="3861322172" seo="true" ref="index:aboutme:selected-works:resume"/>
-    <file name="blank.gif" crc="4208392903" ref="index:aboutme:selected-works:resume"/>
+    <file name="メニューの無料アイコン5.png" crc="3861322172" seo="true" ref="index:selected-works:resume:about-me"/>
+    <file name="blank.gif" crc="4208392903" ref="index:selected-works:resume:about-me"/>
     <file name="img_5254.jpg" crc="4053658673" seo="true" ref="index"/>
-    <file name="img_5254500x225.jpg" crc="4016977202" seo="true" ref="index"/>
+    <file name="img_5254500x226.jpg" crc="4016977202" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4233753086" seo="true" mt="1483680471354" redirect="true"/>
-  <file name="aboutme.html" crc="426226130" seo="true" mt="1483680471354" redirect="true"/>
-  <file name="selected-works.html" crc="4249786960" seo="true" mt="1483680471354" redirect="true"/>
-  <file name="resume.html" crc="3978306454" seo="true" mt="1483680471354" redirect="true"/>
+  <file name="index.html" crc="3900842033" seo="true" mt="1483682873983" redirect="true"/>
+  <file name="selected-works.html" crc="3774126256" seo="true" mt="1483682506083" redirect="true"/>
+  <file name="resume.html" crc="83242785" seo="true" mt="1483682506083" redirect="true"/>
+  <file name="about-me.html" crc="4241736002" seo="true" mt="1483682506083" redirect="true"/>
 </manifest>
