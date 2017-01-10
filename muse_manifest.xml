@@ -1,15 +1,19 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1484015165562">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1484020487288">
+  <folder name="assets">
+    <file name="環境と産業2016_03.pdf" crc="171160624" seo="true" mt="1462524534000"/>
+    <file name="resume.pdf" crc="168796559" seo="true" mt="1484019966000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="4027217533"/>
-    <file name="master_main.css" crc="80182036" ref="index:resume:selected-works:about-me"/>
-    <file name="nomq_preview_master_main.css" crc="4277596367" ref="index:resume:selected-works:about-me"/>
+    <file name="master_main.css" crc="3964549610" ref="index:resume:selected-works:about-me"/>
+    <file name="nomq_preview_master_main.css" crc="4224631763" ref="index:resume:selected-works:about-me"/>
     <file name="index.css" crc="4161658975" ref="index"/>
     <file name="nomq_index.css" crc="288594094" ref="index"/>
-    <file name="resume.css" crc="3962049763" ref="resume"/>
-    <file name="nomq_resume.css" crc="3827778957" ref="resume"/>
+    <file name="resume.css" crc="4181485300" ref="resume"/>
+    <file name="nomq_resume.css" crc="3919059715" ref="resume"/>
     <file name="selected-works.css" crc="3962049763" ref="selected-works"/>
     <file name="nomq_selected-works.css" crc="3827778957" ref="selected-works"/>
-    <file name="about-me.css" crc="123415105" ref="about-me"/>
+    <file name="about-me.css" crc="4173361224" ref="about-me"/>
     <file name="nomq_about-me.css" crc="3790576247" ref="about-me"/>
   </folder>
   <folder name="scripts">
@@ -61,6 +65,6 @@
   </folder>
   <file name="index.html" crc="305110507" seo="true" mt="1484015066440" redirect="true"/>
   <file name="selected-works.html" crc="3859133980" seo="true" mt="1484014799365" redirect="true"/>
-  <file name="resume.html" crc="275612020" seo="true" mt="1484014799365" redirect="true"/>
-  <file name="about-me.html" crc="64632032" seo="true" mt="1484015137602" redirect="true"/>
+  <file name="resume.html" crc="54238816" seo="true" mt="1484020476465" redirect="true"/>
+  <file name="about-me.html" crc="3892939498" seo="true" mt="1484020130507" redirect="true"/>
 </manifest>
