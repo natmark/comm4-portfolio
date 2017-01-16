@@ -1,20 +1,20 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1484550705164">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1484578495423">
   <folder name="assets">
     <file name="環境と産業2016_03.pdf" crc="171160624" seo="true" mt="1462524534000"/>
-    <file name="resume.pdf" crc="155102765" seo="true" mt="1484546184000"/>
+    <file name="resume.pdf" crc="4269325849" seo="true" mt="1484575102000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4027217533"/>
-    <file name="master_main.css" crc="125659280" ref="index:resume:selected-works:about-me"/>
-    <file name="nomq_preview_master_main.css" crc="4224631763" ref="index:resume:selected-works:about-me"/>
-    <file name="index.css" crc="4161658975" ref="index"/>
-    <file name="nomq_index.css" crc="288594094" ref="index"/>
-    <file name="resume.css" crc="474471172" ref="resume"/>
+    <file name="master_main.css" crc="519759034" ref="index:resume:selected-works:about-me"/>
+    <file name="nomq_preview_master_main.css" crc="175579685" ref="index:resume:selected-works:about-me"/>
+    <file name="index.css" crc="4040872931" ref="index"/>
+    <file name="nomq_index.css" crc="52990349" ref="index"/>
+    <file name="resume.css" crc="233839784" ref="resume"/>
     <file name="nomq_resume.css" crc="358372551" ref="resume"/>
-    <file name="selected-works.css" crc="3932657203" ref="selected-works"/>
-    <file name="nomq_selected-works.css" crc="4280728614" ref="selected-works"/>
-    <file name="about-me.css" crc="4173361224" ref="about-me"/>
-    <file name="nomq_about-me.css" crc="3790576247" ref="about-me"/>
+    <file name="selected-works.css" crc="4082803131" ref="selected-works"/>
+    <file name="nomq_selected-works.css" crc="326092164" ref="selected-works"/>
+    <file name="about-me.css" crc="23994330" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="507297514" ref="about-me"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:selected-works:resume:about-me"/>
@@ -36,31 +36,21 @@
     <file name="thumbnail.jpg" crc="3814600733" seo="true" ref="index"/>
     <file name="img_5254800x360.jpg" crc="4241993952" seo="true" ref="index"/>
     <file name="img_2966335x180.jpg" crc="507335545" seo="true" ref="index"/>
-    <file name="img_4812.jpg" crc="172734740" seo="true" ref="about-me:selected-works"/>
+    <file name="img_4812.jpg" crc="4159806067" seo="true" ref="about-me"/>
     <file name="img_6152.jpg" crc="491138331" seo="true" ref="about-me"/>
     <file name="スーツケースのアイコン.png" crc="3878428766" seo="true" ref="about-me"/>
     <file name="目的地アイコン4.png" crc="3997721151" seo="true" ref="about-me"/>
-    <file name="github-mark.png" crc="239769852" seo="true" ref="about-me"/>
-    <file name="facebook-icon.jpg" crc="3831470915" seo="true" ref="about-me"/>
+    <file name="github-mark.png" crc="4175940741" seo="true" ref="about-me"/>
+    <file name="facebook-icon.jpg" crc="4347018" seo="true" ref="about-me"/>
     <file name="家の無料アイコン.png" crc="404198451" seo="true" ref="about-me"/>
-    <file name="wantedly-icon.jpg" crc="471512094" seo="true" ref="about-me"/>
-    <file name="hatenablog_icon_round.png" crc="4219188457" seo="true" ref="about-me"/>
+    <file name="wantedly-icon.jpg" crc="356956860" seo="true" ref="about-me"/>
+    <file name="hatenablog_icon_round.png" crc="388799000" seo="true" ref="about-me"/>
     <file name="insta22x22.png" crc="171459609" seo="true" ref="about-me"/>
     <file name="swift_logosvg.png" crc="195780003" seo="true" ref="about-me"/>
-    <file name="2k3k6jayfthxrdcwzfrhpjpnwh55gd_4854_compprod_1024x1024.png" crc="92573150" seo="true" ref="about-me"/>
-    <file name="unity.png" crc="4204069834" seo="true" ref="about-me"/>
     <file name="nodejs-512.png" crc="359926943" seo="true" ref="about-me"/>
     <file name="machinelearning.png" crc="500207252" seo="true" ref="about-me"/>
-    <file name="git-icon-black.png" crc="4063825835" seo="true" ref="about-me"/>
     <file name="insta.png" crc="103323119" seo="true" ref="about-me"/>
     <file name="img_4812500x211.jpg" crc="138020688" seo="true" ref="about-me"/>
-    <file name="unity14x14.png" crc="3775501565" seo="true" ref="about-me"/>
-    <file name="2k3k6jayfthxrdcwzfrhpjpnwh55gd_4854_compprod_1024x102414x14.png" crc="3983853391" seo="true" ref="about-me"/>
-    <file name="git-icon-black14x14.png" crc="4041455309" seo="true" ref="about-me"/>
-    <file name="wantedly-icon21x21.jpg" crc="3784311958" seo="true" ref="about-me"/>
-    <file name="hatenablog_icon_round21x21.png" crc="4292339016" seo="true" ref="about-me"/>
-    <file name="facebook-icon21x21.jpg" crc="4268219137" seo="true" ref="about-me"/>
-    <file name="insta21x21.png" crc="197732135" seo="true" ref="about-me"/>
     <file name="スクリーンショット 2017-01-10 111421.jpg" crc="4030644925" seo="true" ref="index"/>
     <file name="本棚設定画面.jpg" crc="4162766686" seo="true" ref="selected-works"/>
     <file name="初回作成.png" crc="4014108630" seo="true" ref="selected-works"/>
@@ -69,9 +59,30 @@
     <file name="スクリーンショット 2017-01-16 155439.jpg" crc="410417068" seo="true" ref="selected-works"/>
     <file name="20150729202307.png" crc="30072622" seo="true" ref="selected-works"/>
     <file name="20150729202501.jpg" crc="302145049" seo="true" ref="selected-works"/>
+    <file name="github-mark22x23.png" crc="239769852" seo="true" ref="about-me"/>
+    <file name="facebook-icon22x23.jpg" crc="3831470915" seo="true" ref="about-me"/>
+    <file name="wantedly-icon23x24.jpg" crc="471512094" seo="true" ref="about-me"/>
+    <file name="hatenablog_icon_round23x23.png" crc="4219188457" seo="true" ref="about-me"/>
+    <file name="2k3k6jayfthxrdcwzfrhpjpnwh55gd_4854_compprod_1024x102426x26.png" crc="92573150" seo="true" ref="about-me"/>
+    <file name="unity26x26.png" crc="4204069834" seo="true" ref="about-me"/>
+    <file name="git-icon-black26x26.png" crc="4063825835" seo="true" ref="about-me"/>
+    <file name="unity-crop-u3771.png" crc="523371259" ref="about-me"/>
+    <file name="swift_logosvg-crop-u3809.png" crc="3919442237" ref="about-me"/>
+    <file name="machinelearning-crop-u3846.png" crc="4169944275" ref="about-me"/>
+    <file name="2k3k6jayfthxrdcwzfrhpjpnwh55gd_4854_compprod_1024x1024-crop-u3883.png" crc="4038742906" ref="about-me"/>
+    <file name="git-icon-black-crop-u3936.png" crc="4169423332" ref="about-me"/>
+    <file name="img_48122.jpg" crc="172734740" seo="true" ref="selected-works"/>
+    <file name="本棚設定画面80x143.jpg" crc="4119459141" seo="true" ref="selected-works"/>
+    <file name="初回作成80x143.png" crc="4113913471" seo="true" ref="selected-works"/>
+    <file name="img_4812155x117.jpg" crc="4214931806" seo="true" ref="selected-works"/>
+    <file name="simulator screen shot 20161201 210524117x209.jpg" crc="396584633" seo="true" ref="selected-works"/>
+    <file name="img_4077143x90.jpg" crc="196038535" seo="true" ref="selected-works"/>
+    <file name="スクリーンショット 2017-01-16 155439144x90.jpg" crc="293434171" seo="true" ref="selected-works"/>
+    <file name="2015072920230779x80.png" crc="189521217" seo="true" ref="selected-works"/>
+    <file name="20150729202501194x109.jpg" crc="3819568643" seo="true" ref="selected-works"/>
   </folder>
-  <file name="index.html" crc="305110507" seo="true" mt="1484015066440" redirect="true"/>
-  <file name="selected-works.html" crc="14253093" seo="true" mt="1484550703032" redirect="true"/>
-  <file name="resume.html" crc="3814368445" seo="true" mt="1484546222618" redirect="true"/>
-  <file name="about-me.html" crc="3892939498" seo="true" mt="1484020130507" redirect="true"/>
+  <file name="index.html" crc="4225785383" seo="true" mt="1484577941924" redirect="true"/>
+  <file name="selected-works.html" crc="4285678427" seo="true" mt="1484578432305" redirect="true"/>
+  <file name="resume.html" crc="4277397871" seo="true" mt="1484577941930" redirect="true"/>
+  <file name="about-me.html" crc="274567326" seo="true" mt="1484577941925" redirect="true"/>
 </manifest>
