@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1484544579162">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://natmark.github.io/comm4-portfolio" resolutions="1x" timestamp="1484550705164">
   <folder name="assets">
     <file name="環境と産業2016_03.pdf" crc="171160624" seo="true" mt="1462524534000"/>
-    <file name="resume.pdf" crc="4176496883" seo="true" mt="1484544547000"/>
+    <file name="resume.pdf" crc="155102765" seo="true" mt="1484546184000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4027217533"/>
@@ -11,8 +11,8 @@
     <file name="nomq_index.css" crc="288594094" ref="index"/>
     <file name="resume.css" crc="474471172" ref="resume"/>
     <file name="nomq_resume.css" crc="358372551" ref="resume"/>
-    <file name="selected-works.css" crc="3962049763" ref="selected-works"/>
-    <file name="nomq_selected-works.css" crc="3827778957" ref="selected-works"/>
+    <file name="selected-works.css" crc="3932657203" ref="selected-works"/>
+    <file name="nomq_selected-works.css" crc="4280728614" ref="selected-works"/>
     <file name="about-me.css" crc="4173361224" ref="about-me"/>
     <file name="nomq_about-me.css" crc="3790576247" ref="about-me"/>
   </folder>
@@ -36,7 +36,7 @@
     <file name="thumbnail.jpg" crc="3814600733" seo="true" ref="index"/>
     <file name="img_5254800x360.jpg" crc="4241993952" seo="true" ref="index"/>
     <file name="img_2966335x180.jpg" crc="507335545" seo="true" ref="index"/>
-    <file name="img_4812.jpg" crc="4159806067" seo="true" ref="about-me"/>
+    <file name="img_4812.jpg" crc="172734740" seo="true" ref="about-me:selected-works"/>
     <file name="img_6152.jpg" crc="491138331" seo="true" ref="about-me"/>
     <file name="スーツケースのアイコン.png" crc="3878428766" seo="true" ref="about-me"/>
     <file name="目的地アイコン4.png" crc="3997721151" seo="true" ref="about-me"/>
@@ -62,9 +62,16 @@
     <file name="facebook-icon21x21.jpg" crc="4268219137" seo="true" ref="about-me"/>
     <file name="insta21x21.png" crc="197732135" seo="true" ref="about-me"/>
     <file name="スクリーンショット 2017-01-10 111421.jpg" crc="4030644925" seo="true" ref="index"/>
+    <file name="本棚設定画面.jpg" crc="4162766686" seo="true" ref="selected-works"/>
+    <file name="初回作成.png" crc="4014108630" seo="true" ref="selected-works"/>
+    <file name="simulator screen shot 20161201 210524.jpg" crc="3780997225" seo="true" ref="selected-works"/>
+    <file name="img_4077.jpg" crc="469426999" seo="true" ref="selected-works"/>
+    <file name="スクリーンショット 2017-01-16 155439.jpg" crc="410417068" seo="true" ref="selected-works"/>
+    <file name="20150729202307.png" crc="30072622" seo="true" ref="selected-works"/>
+    <file name="20150729202501.jpg" crc="302145049" seo="true" ref="selected-works"/>
   </folder>
   <file name="index.html" crc="305110507" seo="true" mt="1484015066440" redirect="true"/>
-  <file name="selected-works.html" crc="3859133980" seo="true" mt="1484014799365" redirect="true"/>
-  <file name="resume.html" crc="3814368445" seo="true" mt="1484544568965" redirect="true"/>
+  <file name="selected-works.html" crc="14253093" seo="true" mt="1484550703032" redirect="true"/>
+  <file name="resume.html" crc="3814368445" seo="true" mt="1484546222618" redirect="true"/>
   <file name="about-me.html" crc="3892939498" seo="true" mt="1484020130507" redirect="true"/>
 </manifest>
